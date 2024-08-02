@@ -1,0 +1,136 @@
+,source,target,weight
+0,Romero,Graña,1
+1,Romero,Miro Quesada,1
+2,Romero,Moreyra,1
+3,Romero,Fort,1
+4,Romero,De La Puente,1
+5,Romero,Onrubia,1
+6,Romero,Brescia,1
+7,Romero,Nicolini,1
+8,Romero,Bentin,1
+9,Romero,Benavides,1
+10,Romero,Bustamante,1
+11,Romero,Woodman Pollit,1
+12,Romero,Raffo,1
+13,Romero,Piazza,1
+14,Romero,Berckemeyer,1
+15,Romero,Llosa Barber,1
+16,Romero,Rizo Patron,1
+17,Romero,Montori,1
+18,Graña,Miro Quesada,1
+19,Graña,Fort,1
+20,Graña,De La Puente,1
+21,Graña,Wiese,1
+22,Graña,Montero,1
+23,Graña,Benavides,1
+24,Graña,Bustamante,1
+25,Graña,Piazza,1
+26,Graña,Beoutis Ledesma,1
+27,Graña,Michell,1
+28,Miro Quesada,Fort,1
+29,Miro Quesada,De La Puente,1
+30,Miro Quesada,Wiese,1
+31,Miro Quesada,Montero,1
+32,Miro Quesada,Benavides,1
+33,Miro Quesada,Bustamante,1
+34,Miro Quesada,Piazza,1
+35,Miro Quesada,Beoutis Ledesma,1
+36,Miro Quesada,Michell,1
+37,Moreyra,Fort,1
+38,Moreyra,De La Puente,1
+39,Moreyra,Wiese,1
+40,Moreyra,Onrubia,1
+41,Moreyra,Brescia,1
+42,Moreyra,Montero,1
+43,Moreyra,Picaso,1
+44,Moreyra,Bentin,1
+45,Moreyra,Bustamante,1
+46,Moreyra,Raffo,1
+47,Moreyra,Berckemeyer,1
+48,Moreyra,Rizo Patron,1
+49,Moreyra,Montori,1
+50,Moreyra,Sotomayor,1
+51,Fort,De La Puente,1
+52,Fort,Onrubia,1
+53,Fort,Brescia,1
+54,Fort,Nicolini,1
+55,Fort,Picaso,1
+56,Fort,Bentin,1
+57,Fort,Benavides,1
+58,Fort,Bustamante,1
+59,Fort,Woodman Pollit,1
+60,Fort,Raffo,1
+61,Fort,Piazza,1
+62,Fort,Llosa Barber,1
+63,Fort,Beoutis Ledesma,1
+64,Fort,Sotomayor,1
+65,Fort,Cilloniz,1
+66,De La Puente,Wiese,1
+67,De La Puente,Montero,1
+68,De La Puente,Benavides,1
+69,De La Puente,Bustamante,1
+70,De La Puente,Piazza,1
+71,De La Puente,Berckemeyer,1
+72,De La Puente,Beoutis Ledesma,1
+73,De La Puente,Rizo Patron,1
+74,De La Puente,Sotomayor,1
+75,Wiese,Montero,1
+76,Wiese,Berckemeyer,1
+77,Wiese,Beoutis Ledesma,1
+78,Wiese,Rizo Patron,1
+79,Wiese,Sotomayor,1
+80,Onrubia,Brescia,1
+81,Onrubia,Nicolini,1
+82,Onrubia,Bentin,1
+83,Onrubia,Woodman Pollit,1
+84,Onrubia,Raffo,1
+85,Onrubia,Berckemeyer,1
+86,Onrubia,Llosa Barber,1
+87,Onrubia,Montori,1
+88,Brescia,Bentin,1
+89,Brescia,Raffo,1
+90,Brescia,Berckemeyer,1
+91,Brescia,Montori,1
+92,Nicolini,Bentin,1
+93,Nicolini,Woodman Pollit,1
+94,Nicolini,Raffo,1
+95,Nicolini,Llosa Barber,1
+96,Nicolini,Rizo Patron,1
+97,Montero,Picaso,1
+98,Montero,Bustamante,1
+99,Montero,Beoutis Ledesma,1
+100,Montero,Ferreyros,1
+101,Picaso,Bustamante,1
+102,Picaso,Sotomayor,1
+103,Picaso,Cilloniz,1
+104,Bentin,Woodman Pollit,1
+105,Bentin,Raffo,1
+106,Bentin,Berckemeyer,1
+107,Bentin,Llosa Barber,1
+108,Bentin,Montori,1
+109,Bentin,Ferreyros,1
+110,Bentin,Wong Lu,1
+111,Benavides,Bustamante,1
+112,Benavides,Piazza,1
+113,Bustamante,Piazza,1
+114,Bustamante,Montori,1
+115,Bustamante,Cilloniz,1
+116,Bustamante,Ferreyros,1
+117,Woodman Pollit,Raffo,1
+118,Woodman Pollit,Berckemeyer,1
+119,Woodman Pollit,Llosa Barber,1
+120,Raffo,Berckemeyer,1
+121,Raffo,Llosa Barber,1
+122,Raffo,Montori,1
+123,Piazza,Llosa Barber,1
+124,Piazza,Beoutis Ledesma,1
+125,Berckemeyer,Llosa Barber,1
+126,Berckemeyer,Rizo Patron,1
+127,Berckemeyer,Montori,1
+128,Berckemeyer,Sotomayor,1
+129,Llosa Barber,Beoutis Ledesma,1
+130,Rizo Patron,Sotomayor,1
+131,Montori,Cilloniz,1
+132,Sotomayor,Cilloniz,1
+133,Batievsky Spack,Matos Escalada,1
+134,Batievsky Spack,Galsky,1

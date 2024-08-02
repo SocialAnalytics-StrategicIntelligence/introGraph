@@ -1,0 +1,49 @@
+---
+title: "Intro to Graph Exercises"
+output:
+  html_document:
+    df_print: paged
+---
+
+<img src="https://i.imgur.com/6U6q5jQ.png"/>
+
+```{r klippy, echo=FALSE, include=TRUE}
+klippy::klippy(position = c('top', 'right'))
+```
+
+```{r}
+rm(list = ls()) # clear memory
+library(igraph)
+
+dG=read.graph("dG.gml", format = "gml")
+
+```
+
+```{r}
+summary(dG)
+```
+
+
+```{r}
+plot(dG, edge.arrow.size=.4,vertex.label=V(dG)$label,edge.curved=.1)
+
+```
+
+## Exercise
+
+```{r, echo=FALSE}
+EliteNet=read.graph(file.path("graphdata","EliteNet.gml"), format = "gml")
+plot(EliteNet, edge.arrow.size=.4,vertex.label=V(EliteNet)$label,edge.curved=.1, layout= layout_with_graphopt(EliteNet, charge=0.01))
+```
+
+## Challenge
+
+```{r, echo=FALSE}
+
+RFTA_net=read.graph(file.path("graphdata","RFTA_net.gml"), format = "gml")
+plot(RFTA_net, edge.arrow.size=.4,vertex.label=V(RFTA_net)$label,edge.curved=.1)
+```
+
+
+
+
